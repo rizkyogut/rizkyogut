@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 # Halo semua! 
 
-Perkenalkan nama saya **Gilang Ramadhan**.\
+Perkenalkan nama saya **Muhammad Rizky Maulana**.\
 
 Saya seorang **Mahasiswa yang mengikuti Studi Independent** di [Bangkit 2022](https://www.dicoding.com/).\
 
