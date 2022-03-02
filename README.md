@@ -14,3 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+# Halo semua! 
+
+Perkenalkan nama saya **Gilang Ramadhan**.\
+
+Saya seorang **Mahasiswa yang mengikuti Studi Independent** di [Bangkit 2022](https://www.dicoding.com/).\
+
+Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](https://www.linkedin.com/in/muhammad-rizky-maulana-198762170/)ku ya.
