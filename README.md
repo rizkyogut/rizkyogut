@@ -1,8 +1,9 @@
 ### Hi! 👋 I'm Rizky.
 
-- 🌱 I’m currently learning about android technology
-- 📫 How to reach me: mrizky.maul99@gmail.com
+- 📱 Android Developer 
 - ⚡ UI/UX enthusiastic
+- 🌱 I’m currently learning about Scalable Web Service with Golang
+
 <!--
 - 🔭 I’m currently working on <a href="https://github.com/dicodingacademy">@dicodingacademy</a>
 - 🌱 I’m currently learning about cloud technology for back-end apps
@@ -26,7 +27,7 @@
 <p align="left">
 <a href="https://github.com/rizkyogut">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=rizkyogut&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <!-- <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=rizkyogut&layout=compact&langs_count=8&theme=algolia"/> -->
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=rizkyogut&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
 
