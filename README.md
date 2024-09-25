@@ -2,7 +2,6 @@
 
 - 📱 Android Developer 
 - ⚡ UI/UX enthusiastic
-- 🌱 I’m currently learning about Scalable Web Service with Golang
 
 <!--
 - 🔭 I’m currently working on <a href="https://github.com/dicodingacademy">@dicodingacademy</a>
